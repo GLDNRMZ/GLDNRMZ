@@ -1,4 +1,5 @@
-# <a href="https://discordapp.com/users/500441130303881247" style="color: #FFD700;">GLDNRMZ</a> <p align="right">
+# <a href="https://discordapp.com/users/500441130303881247" style="color: #FFD700;">GLDNRMZ</a> 
+<p align="left">
   <a href="https://komarev.com/ghpvc/?username=GLDNRMZ">
     <img src="https://komarev.com/ghpvc/?username=GLDNRMZ&label=Profile%20Views&color=00FFFF&style=flat-square" alt="GLDNRMZ's profile views" />
   </a>
