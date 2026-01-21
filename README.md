@@ -16,16 +16,16 @@
 ## 🌐 Links
 <p align="center">
   <a href="https://discord.gg/7YHJ7774jA">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logoColor=white" alt="Discord Badge" />
   </a>
   <a href="https://5metrics.dev/resources?search=gldnrmz">
-    <img src="https://img.shields.io/badge/5Metrics-00BFFF?style=for-the-badge&logo=google&logoColor=white" alt="5Metrics Badge" />
+    <img src="https://img.shields.io/badge/5Metrics-00BFFF?style=for-the-badge&logoColor=white" alt="5Metrics Badge" />
   </a>
   <a href="https://forum.cfx.re/u/gldnrmz/summary">
-    <img src="https://img.shields.io/badge/CFX-32CD32?style=for-the-badge&logo=crossfade&logoColor=white" alt="CFX Badge" />
+    <img src="https://img.shields.io/badge/CFX-32CD32?style=for-the-badge&logoColor=white" alt="CFX Badge" />
   </a>
   <a href="#" style="color:#FFD700; text-decoration: none; font-weight: bold;">
-    <img src="https://img.shields.io/badge/Tebex-FFD700?style=for-the-badge&logo=paypal&logoColor=white" alt="Tebex Badge" />
+    <img src="https://img.shields.io/badge/Tebex-FFD700?style=for-the-badge&logoColor=white" alt="Tebex Badge" />
   </a> <span style="color:#FFD700; font-size: 14px;">**COMING SOON**</span>
 </p>
 
