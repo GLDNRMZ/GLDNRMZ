@@ -26,7 +26,7 @@
   </a>
   <a href="#" style="color:#FFD700; text-decoration: none; font-weight: bold;">
     <img src="https://img.shields.io/badge/Tebex-FFD700?style=for-the-badge&logoColor=white" alt="Tebex Badge" />
-  </a> <span style="color:#FFD700; font-size: 14px;">**COMING SOON**</span>
+  </a>
 </p>
 
 ---
