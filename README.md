@@ -8,10 +8,9 @@
 ---
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GLDNRMZ&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GLDNRMZ's GitHub Stats" width="48%" style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 255, 255, 0.3);" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLDNRMZ&layout=compact&theme=dark&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" width="48%" style="border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 255, 255, 0.3);" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GLDNRMZ&theme=github_dark&hide_border=true&show_icons=true&total_commits=true&total_pull_requests=true&contributed=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLDNRMZ&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
