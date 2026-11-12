@@ -1,0 +1,29 @@
+name: Profile summary cards
+
+# Generates the stats images used in README.md and commits them to
+# profile-summary-card-output/. Replaces github-readme-stats.vercel.app,
+# whose public server was shut down.
+#
+# Optional: add a repo secret named SUMMARY_GITHUB_TOKEN (a personal access
+# token) so the cards can include private-repo activity. Without it the
+# built-in token is used and only public activity is counted.
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # once a day
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.13.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          THEME: github_dark

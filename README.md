@@ -8,15 +8,17 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GLDNRMZ&theme=github_dark&hide_border=true&show_icons=true&total_commits=true&total_pull_requests=true&contributed=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLDNRMZ&layout=compact&theme=github_dark&hide_border=true)
+<p align="left">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" height="180" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages" height="180" />
+</p>
 
 ---
 
 ## 🌐 Links
 <p align="center">
   <a href="https://discord.gg/7YHJ7774jA">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logoColor=white" alt="Discord Badge" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
   <a href="https://5metrics.dev/resources?search=gldnrmz">
     <img src="https://img.shields.io/badge/5Metrics-00BFFF?style=for-the-badge&logoColor=white" alt="5Metrics Badge" />
